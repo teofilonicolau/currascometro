@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;1,200;1,500&display=swap');
+
+.container{
+    
+    font-family: 'Poppins', 'Times New Roman', Times, serif;
+    max-width: 300px;
+    margin: auto;
+    background-color: rgb(241, 97, 97);
+    padding: 20px;
+    border-radius: 10px;
+}
+h1{
+    margin-top: 0;
+}
+input, select{
+    width: 100%;
+    display: block;
+    box-sizing: border-box;
+    padding: 5px;
+    border: none;
+    margin-bottom: 10px;
+}
+#button{
+    color: rgb(61, 4, 4);
+    background-color: #cec548;
+    font-weight: bold;
+}   
